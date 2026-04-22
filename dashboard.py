@@ -1,7 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
-
+import os
+os.system('pip install matplotlib')
 # ======================
 # CONFIG
 # ======================
